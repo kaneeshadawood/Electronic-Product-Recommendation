@@ -6,7 +6,7 @@ Companies leverage recommender systems to help them identify user preferences an
 
 **Problem Statement**
 The main problems customer face when trying to purchase or browse a product online are:
-- the information overload
+- information overload
 - unlimited product choices
 
 Having a recommendations in place will help the user find relevant content to make a better purchasing decision. Moreover, recommender systems help companies like Amazon engage directly with the user and get relevant feedback for their products.
