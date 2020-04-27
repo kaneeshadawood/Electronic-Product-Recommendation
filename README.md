@@ -13,7 +13,7 @@ Having a recommendations in place will help the user find relevant content to ma
 
 # Dataset Attributes
 
-[Amazon Ectronic Dataset] provides the following electronic product information:
+[Amazon Eletronic Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets.html#market_bias) provides the following electronic product information:
 
 - user_id: unique id for each user
 - item_id: unique id for each product
