@@ -40,9 +40,22 @@ In order to build the recommender models I chose: 'user_id', 'item_id', 'rating'
 - Model Building
 - Evaluation
 
+# Libraries/Methods used:
+
+- Python (Numpy, Pandas, Scipy)
+- [Scikit-learn](https://scikit-learn.org/)
+- Evaluation metrics (Correlation, Precision, Recall, RMSE, MSE)
+
 # Challenges
 
 - Sparse Dataset
 - Computational Time- What platform to use, whether to run things locally or on the cloud (Google Colab)
 - Proper data preprocessing- carefully recognizing and choosing the methods to clean the data
 - Evaluation metrics: Choosing relevant metrics to evaluate the models
+
+# Research and Findings:
+
+- [Marketing Bias Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets.html#market_bias)
+- [Amazon Recommendation](https://aws.amazon.com/personalize/)
+- [Cold Start Problem](https://www.wikiwand.com/en/Cold_start_(recommender_systems))
+- [Content based Recommender](https://www.analyticsvidhya.com/blog/2015/08/beginners-guide-learn-content-based-recommender-systems/)
